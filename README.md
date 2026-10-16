@@ -14,6 +14,14 @@ I'm a Mechanical Engineering student who enjoys learning programming and buildin
 - 💡 Problem Solving — Algorithms and logic
 - 🤖 Arduino — Electronics and robotics
 
+---
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AldieArdiansya&layout=compact&theme=tokyonight&langs_count=6)
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🐍 Retro Snake Game
