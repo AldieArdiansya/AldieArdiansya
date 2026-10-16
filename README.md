@@ -7,30 +7,30 @@ I'm a Mechanical Engineering student who enjoys learning programming and buildin
 
 ---
 
-## 🎓 Currently Learning
+##  Currently Learning
 
-- 🐍 Python — Programming fundamentals
-- 🔧 Git & GitHub — Version control
-- 💡 Problem Solving — Algorithms and logic
-- 🤖 Arduino — Electronics and robotics
+- Python — Programming fundamentals
+- Git & GitHub — Version control
+- Problem Solving — Algorithms and logic
+- Arduino — Electronics and robotics
 
 ---
 
 
-<h2 align="center">📊 Developer Dashboard</h2>
+<h2 align="center"> Developer Dashboard</h2>
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 📈 Contributions
+### Contributions
 
 <img src="https://github-readme-stats.vercel.app/api?username=AldieArdiansya&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
 <td width="50%" align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldieArdiansya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
 
@@ -41,28 +41,28 @@ I'm a Mechanical Engineering student who enjoys learning programming and buildin
 ---
 
 <p align="center">
-  <i>Small steps, big progress. 🚀</i>
+  <i>Small steps, big progress. </i>
 </p>
 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🐍 Retro Snake Game
+### Retro Snake Game
 A classic Snake game built with Python. A fun project to practice programming fundamentals and game logic.
 
 [View Repository](https://github.com/AldieArdiansya/Retro-Snake-Game)
 
-### ⚙️ Engineering Calculator
+### Engineering Calculator
 A planned project for solving basic mechanical engineering calculations, such as force, stress, and area.
 
-### 🤖 Arduino Projects
+### Arduino Projects
 Exploring simple robotics, electronics, and automation using Arduino Uno R3.
 
 ---
 
-## 🎯 My Goals
+## My Goals
 
 - [ ] Build more Python projects
 - [ ] Improve my coding fundamentals
@@ -71,4 +71,4 @@ Exploring simple robotics, electronics, and automation using Arduino Uno R3.
 
 ---
 
-> Small steps, big progress. 🚀
+> Small steps, big progress.
