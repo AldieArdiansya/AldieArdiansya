@@ -16,9 +16,34 @@ I'm a Mechanical Engineering student who enjoys learning programming and buildin
 
 ---
 
-## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AldieArdiansya&layout=compact&theme=tokyonight&langs_count=6)
+<h2 align="center">📊 Developer Dashboard</h2>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 📈 Contributions
+
+<img src="https://github-readme-stats.vercel.app/api?username=AldieArdiansya&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+
+</td>
+<td width="50%" align="center">
+
+### 💻 Programming Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldieArdiansya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <i>Small steps, big progress. 🚀</i>
+</p>
+
 
 ---
 
