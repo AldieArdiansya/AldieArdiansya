@@ -41,7 +41,6 @@ I'm a Mechanical Engineering student who enjoys learning programming and buildin
 ---
 
 <p align="center">
-  <i>Small steps, big progress. </i>
 </p>
 
 
@@ -61,14 +60,3 @@ A planned project for solving basic mechanical engineering calculations, such as
 Exploring simple robotics, electronics, and automation using Arduino Uno R3.
 
 ---
-
-## My Goals
-
-- [ ] Build more Python projects
-- [ ] Improve my coding fundamentals
-- [ ] Learn to write cleaner and more maintainable code
-- [ ] Create projects that combine programming and mechanical engineering
-
----
-
-> Small steps, big progress.
