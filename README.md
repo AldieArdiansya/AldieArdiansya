@@ -1,18 +1,9 @@
 
 # Hi, I'm Aldie 👋
 
-### Mechanical Engineering Student | Learning Python & Robotics
+I'm a university student who uses GitHub to learn, experiment, and explore the world of programming. I enjoy building small projects as a hobby, learning new technologies, and improving my coding skills along the way.
 
-I'm a Mechanical Engineering student who enjoys learning programming and building small projects. I'm currently exploring Python, Git & GitHub, and how to combine coding with engineering.
-
----
-
-##  Currently Learning
-
-- Python — Programming fundamentals
-- Git & GitHub — Version control
-- Problem Solving — Algorithms and logic
-- Arduino — Electronics and robotics
+For me, GitHub is a place to document my learning journey, share my projects, and grow as a developer one step at a time.
 
 ---
 
