@@ -34,4 +34,13 @@ For me, GitHub is a place to document my learning journey, share my projects, an
 <p align="center">
 </p>
 
-tes
+### Currently Learning:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/Autodesk%20Inventor-E51937?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk Inventor" />
+  <img src="https://img.shields.io/badge/Autodesk%20CFD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk CFD" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
