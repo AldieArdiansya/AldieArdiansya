@@ -10,6 +10,7 @@ For me, GitHub is a place to document my learning journey, share my projects, an
 
 <h2 align="center"> Developer Dashboard</h2>
 
+<table>
 <tr>
 <td width="50%" align="center">
 
