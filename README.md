@@ -16,7 +16,7 @@ For me, GitHub is a place to document my learning journey, share my projects, an
 
 ### Contributions
 
-<img src="https://github-readme-stats.vercel.app/api?username=AldieArdiansya&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AldieArdiansya&show_icons=true&theme=tokyonight" />
 
 </td>
 <td width="50%" align="center">
