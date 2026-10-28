@@ -33,21 +33,3 @@ For me, GitHub is a place to document my learning journey, share my projects, an
 
 <p align="center">
 </p>
-
-
----
-
-## Featured Projects
-
-### Retro Snake Game
-A classic Snake game built with Python. A fun project to practice programming fundamentals and game logic.
-
-[View Repository](https://github.com/AldieArdiansya/Retro-Snake-Game)
-
-### Engineering Calculator
-A planned project for solving basic mechanical engineering calculations, such as force, stress, and area.
-
-### Arduino Projects
-Exploring simple robotics, electronics, and automation using Arduino Uno R3.
-
----
