@@ -8,26 +8,34 @@ For me, GitHub is a place to document my learning journey, share my projects, an
 ---
 
 
-<h2 align="center"> Developer Dashboard</h2>
 
-<table>
+<h2 align="center">📊 Developer Dashboard</h2>
+
+<table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-### Contributions
+### 📈 Contributions
 
-<img src="https://github-readme-stats.vercel.app/api?username=AldieArdiansya&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AldieArdiansya&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-### Programming Languages
+### 💻 Programming Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldieArdiansya&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldieArdiansya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
 
 </td>
 </tr>
 </table>
+
+---
+
+<p align="center">
+  <i>Small steps, big progress. 🚀</i>
+</p>
+
 
 ---
 
