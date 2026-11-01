@@ -32,9 +32,6 @@ For me, GitHub is a place to document my learning journey, share my projects, an
 
 ---
 
-<p align="center">
-  <i>Small steps, big progress. 🚀</i>
-</p>
 
 
 ---
