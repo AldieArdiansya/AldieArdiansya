@@ -13,14 +13,14 @@ For me, GitHub is a place to document my learning journey, share my projects, an
 
 <table>
 <tr>
-<td width="60%" align="center">
+<td width="50%" align="center">
 
 ### Contributions
 
 <img src="https://github-readme-stats.vercel.app/api?username=AldieArdiansya&show_icons=true&theme=tokyonight" />
 
 </td>
-<td width="60%" align="center">
+<td width="50%" align="center">
 
 ### Programming Languages
 
