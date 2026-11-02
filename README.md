@@ -24,7 +24,7 @@ For me, GitHub is a place to document my learning journey, share my projects, an
 
 ### Programming Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldieArdiansya&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldieArdiansya&layout=compact&theme=white" />
 
 </td>
 </tr>
